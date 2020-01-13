@@ -6,5 +6,5 @@ Teeter Totter Project for Insider.
 
 ------------------------------------------------
 
-In game_configs.js autoplay mode can be enabled
+In game_configs.js autoplay mode can be enabled,
 Also, bending can be changed in game_configs.js.
