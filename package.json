@@ -1,0 +1,28 @@
+{
+  "name": "teeter-totter-vue",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emre Demir",
+    "email": "emre.dmr93@gmail.com",
+    "url": "https://github.com/demiremredev"
+  },
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.2.0",
+    "jquery": "^3.4.1",
+    "vue": "^2.6.11",
+    "vuex": "^3.1.2",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.1.2",
+    "@vue/cli-service": "^4.1.2",
+    "node-sass": "^4.13.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
